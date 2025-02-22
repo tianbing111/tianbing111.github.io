@@ -11,7 +11,7 @@ I am now a third-year Ph.D. candidate at the School of Computer Science and Tech
 
 **Email:** tbing (at) hust (dot) edu (dot) cn
 
-<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">Publication Lists
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Publication Lists
 ------
 **[FAST]** **Bing Tian**, Haikun Liu, Yuhang Tang, Shihai Xiao, Zhuohui Duan, Xiaofei Liao, Hai Jin, Junhua Zhu, Xuecang Zhang, Yu Zhang. "**Towards High-throughput and Low-latency Billion-scale Vector Search via CPU/GPU Collaborative Filtering and Re-ranking**". In 23rd USENIX Conference on File and Storage Technologies (FAST), Santa Clara, California, USA, February 25-27, 2025.  
 _(CCF A, Top-Tier Conference in Storage System)_
