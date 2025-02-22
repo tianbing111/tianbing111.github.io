@@ -25,9 +25,9 @@ author:
   avatar           : "touxiangnew.png"
   name             : "Bing Tian"
   pronouns         : # example: "she/her"  
-  bio              : "Sometimes native"
+  bio              : "Huazhong University of Science and Technology (HUST)"
   location         : "Wuhan, China"
-  employer         : "Huazhong University of Science and Technology"
+  employer         : # "Huazhong University of Science and Technology"
   uri              : # URL
   email            : "tbing@hust.edu.cn" 
 
