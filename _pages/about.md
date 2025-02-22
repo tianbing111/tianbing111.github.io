@@ -23,10 +23,11 @@ Interns
 ------
 - _[2023.09 - Present] 2012 Laboratory of Huawei, Researcher of Vector Search._
   
-![:tianbing111](https://count.getloli.com/get/@:tianbing111?theme=gelbooru)
 Honors and Awards
 ------
 - _2024 Guotai Junan Scholarship_
 - _2023 ZhiXing Excellent Graduate Scholarship_
 - _2021 Finalist for the Outstanding Winner Award in the Mathematical Contest in Modeling (MCM)_
 - _2020 National Scholarship_
+
+![:tianbing111](https://count.getloli.com/get/@:tianbing111?theme=gelbooru)
