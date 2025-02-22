@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am now a third-year Ph.D. candidate at the School of Computer Science and Technology, Huazhong University of Science and Technology (2022-present). I am advised by Prof. [Haikun Liu](http://faculty.hust.edu.cn/liuhaikun/zh_CN/index/872473/list/index.htm). I enjoy working in [CGCL lab](https://grid.hust.edu.cn/). My research interests focus on Large-scale Vector Search System, Computational Storage, and CXL.
+I am now a third-year Ph.D. candidate at the School of Computer Science and Technology, Huazhong University of Science and Technology (2022-present). I am advised by Prof. [Haikun Liu](http://faculty.hust.edu.cn/liuhaikun/zh_CN/index/872473/list/index.htm). I enjoy working in [CGCL lab](https://grid.hust.edu.cn/). My research interests focus on Large-scale Vector Search System, Computational Storage, and CXL. In particular, my research objective is to thoroughly explore advanced computing and storage architectures to realize the high-performance, large-scale vector search system.
 
 Email: tbing (at) hust (dot) edu (dot) cn
 
