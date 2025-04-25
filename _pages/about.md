@@ -13,6 +13,9 @@ I am now a third-year Ph.D. candidate at the School of Computer Science and Tech
 
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Publication Lists
 ------
+**[ACM TOS]** Haikun Liu, **Bing Tian**, Zhuohui Duan, Xiaofei Liao, Yu Zhang. "**A SmartSSD-based Near Data Processing Architecture for Scalable  Billion-point Approximate Nearest Neighbor Search**". ACM Transactions on Storage, 2025.  
+_(CCF A, Top-Tier Journal in Storage System)_
+
 **[FAST]** **Bing Tian**, Haikun Liu, Yuhang Tang, Shihai Xiao, Zhuohui Duan, Xiaofei Liao, Hai Jin, Junhua Zhu, Xuecang Zhang, Yu Zhang. "**Towards High-throughput and Low-latency Billion-scale Vector Search via CPU/GPU Collaborative Filtering and Re-ranking**". In 23rd USENIX Conference on File and Storage Technologies (FAST), Santa Clara, California, USA, February 25-27, 2025.  
 _(CCF A, Top-Tier Conference in Storage System)_
 
