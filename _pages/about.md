@@ -25,7 +25,12 @@ _(CCF A, Top-Tier Conference in Computer System)_
 Interns
 ------
 - _[2023.09 - Present] 2012 Laboratory of Huawei, Researcher of Vector Search._
-  
+
+Invited Talks
+------
+- CPU-GPU Collaborative Vector Search at **Ant Group(May-8,2025);** **Huawei ChaSpark(May-29,2025)**
+- Vector Search using SmartSSD at **Datawhale(April-8,2023);** **NeuHelium(May-17,2023)**
+
 Honors and Awards
 ------
 - _2024 Guotai Junan Scholarship_
