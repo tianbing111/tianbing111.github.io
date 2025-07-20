@@ -13,6 +13,8 @@ I am now a third-year Ph.D. candidate at the School of Computer Science and Tech
 
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Publication Lists
 ------
+**[In Preprint.]** Yang Xiao, Mo Sun, Ziyu Song, **Bing Tian**, Jie Zhang, Jie Sun, Zeke Wang. "**Breaking the Storage-Compute Bottleneck in Billion-Scale ANNS: A GPU-Driven Asynchronous I/O Framework**". arXiv:2507.10070.
+
 **[ACM TOS]** Haikun Liu, **Bing Tian**, Zhuohui Duan, Xiaofei Liao, Yu Zhang. "**A SmartSSD-based Near Data Processing Architecture for Scalable  Billion-point Approximate Nearest Neighbor Search**". ACM Transactions on Storage, 2025.  
 _(CCF A, Top-Tier Journal in Storage System)_
 
