@@ -7,12 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-I am now a third-year Ph.D. candidate at the School of Computer Science and Technology, Huazhong University of Science and Technology (2022-present). I am advised by Prof. [Haikun Liu](http://faculty.hust.edu.cn/liuhaikun/zh_CN/index/872473/list/index.htm). I enjoy working in [CGCL lab](https://grid.hust.edu.cn/). My research interests focus on **Large-scale Vector Search System**, **Computational Storage**, and **CXL**. In particular, my research objective is to thoroughly explore advanced computing and storage architectures to realize the high-performance, large-scale vector search system.
+I am now a fourth-year Ph.D. candidate at the School of Computer Science and Technology, Huazhong University of Science and Technology (2022-present). I am advised by Prof. [Haikun Liu](http://faculty.hust.edu.cn/liuhaikun/zh_CN/index/872473/list/index.htm). I enjoy working in [CGCL lab](https://grid.hust.edu.cn/). My research interests focus on **Large-scale Vector Search System**, **Computational Storage**, and **CXL**. In particular, my research objective is to thoroughly explore advanced computing and storage architectures to realize the high-performance, large-scale vector search system.
 
 **Email:** tbing (at) hust (dot) edu (dot) cn
 
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Publication Lists
 ------
+**[In Preprint.]** Yuhang Tang*, **Bing Tian\***, Haikun Liu, Zhuohui Duan, Shuhao Zhang, Fubing Mao, Xiaofei Liao. "**TierANNS: Fast and Cost-Efficient Approximate Nearest Neighbor Search for Billion-Scale Vectors**". arXiv:2510.  
+_(* Equal Contribution)_
+
 **[In Preprint.]** Yang Xiao, Mo Sun, Ziyu Song, **Bing Tian**, Jie Zhang, Jie Sun, Zeke Wang. "**Breaking the Storage-Compute Bottleneck in Billion-Scale ANNS: A GPU-Driven Asynchronous I/O Framework**". arXiv:2507.10070.
 
 **[ACM TOS]** Haikun Liu, **Bing Tian**, Zhuohui Duan, Xiaofei Liao, Yu Zhang. "**A SmartSSD-based Near Data Processing Architecture for Scalable  Billion-point Approximate Nearest Neighbor Search**". ACM Transactions on Storage, 2025.  
@@ -35,6 +38,7 @@ Invited Talks
 
 Honors and Awards
 ------
+- _2025 National Scholarship_
 - _2024 Guotai Junan Scholarship_
 - _2023 ZhiXing Excellent Graduate Scholarship_
 - _2021 Finalist for the Outstanding Winner Award in the Mathematical Contest in Modeling (MCM)_
