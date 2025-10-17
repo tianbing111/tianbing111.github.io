@@ -13,8 +13,8 @@ I am now a fourth-year Ph.D. candidate at the School of Computer Science and Tec
 
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Publication Lists
 ------
-**[In Preprint.]** Yuhang Tang $\dagger$, **Bing Tian** $\dagger$, Haikun Liu, Zhuohui Duan, Shuhao Zhang, Fubing Mao, Xiaofei Liao. "**TierANNS: Fast and Cost-Efficient Approximate Nearest Neighbor Search for Billion-Scale Vectors**". arXiv:2510.  
-($\dagger$ Equal Contribution)
+**[In Preprint.]** Yuhang Tang*, **Bing Tian***, Haikun Liu, Zhuohui Duan, Shuhao Zhang, Fubing Mao, Xiaofei Liao. "**TierANNS: Fast and Cost-Efficient Approximate Nearest Neighbor Search for Billion-Scale Vectors**". arXiv:2510.  
+(* Equal Contribution)
 
 **[In Preprint.]** Yang Xiao, Mo Sun, Ziyu Song, **Bing Tian**, Jie Zhang, Jie Sun, Zeke Wang. "**Breaking the Storage-Compute Bottleneck in Billion-Scale ANNS: A GPU-Driven Asynchronous I/O Framework**". arXiv:2507.10070.
 
