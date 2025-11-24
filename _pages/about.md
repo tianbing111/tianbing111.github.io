@@ -16,7 +16,8 @@ I am now a fourth-year Ph.D. candidate at the School of Computer Science and Tec
 **[In Preprint.]** Yuhang Tang-, **Bing Tian**-, Haikun Liu, Zhuohui Duan, Shuhao Zhang, Fubing Mao, Xiaofei Liao. "**TierANNS: Fast and Cost-Efficient Approximate Nearest Neighbor Search for Billion-Scale Vectors**". arXiv:2510.  
 (- Equal Contribution)
 
-**[In Preprint.]** Yang Xiao, Mo Sun, Ziyu Song, **Bing Tian**, Jie Zhang, Jie Sun, Zeke Wang. "**Breaking the Storage-Compute Bottleneck in Billion-Scale ANNS: A GPU-Driven Asynchronous I/O Framework**". arXiv:2507.10070.
+**[SIGMOD 2026]** Yang Xiao, Mo Sun, Ziyu Song, **Bing Tian**, Jie Zhang, Jie Sun, Zeke Wang. "**Breaking the Storage-Compute Bottleneck in Billion-Scale ANNS: A GPU-Driven Asynchronous I/O Framework**". ACM SIGMOD International Conference on Management of Data (SIGMOD'26), 2026
+_(CCF A, Top-Tier Conference in Database System)_
 
 **[ACM TOS]** Haikun Liu, **Bing Tian**, Zhuohui Duan, Xiaofei Liao, Yu Zhang. "**A SmartSSD-based Near Data Processing Architecture for Scalable  Billion-point Approximate Nearest Neighbor Search**". ACM Transactions on Storage, 2025.  
 _(CCF A, Top-Tier Journal in Storage System)_
