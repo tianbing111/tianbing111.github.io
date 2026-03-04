@@ -30,7 +30,8 @@ _(CCF A, Top-Tier Conference in Computer System)_
 
 Interns
 ------
-- _[2023.09 - Present] 2012 Laboratory of Huawei, Researcher of Vector Search._
+- _[2026.03 - Present] Ace Top Talent Internship of Xiaohongshu Inc, Researcher of Vector Search + LLM._
+- _[2023.09 - 2024.09] 2012 Laboratory of Huawei Inc, Researcher of Vector Search._
 
 Invited Talks
 ------
