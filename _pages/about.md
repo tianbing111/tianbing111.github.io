@@ -13,7 +13,10 @@ I am now a fourth-year Ph.D. candidate at the School of Computer Science and Tec
 
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Publication Lists
 ------
-**[In Preprint.]** Yuhang Tang-, **Bing Tian**-, Haikun Liu, Zhuohui Duan, Shuhao Zhang, Fubing Mao, Xiaofei Liao. "**TierANNS: Fast and Cost-Efficient Approximate Nearest Neighbor Search for Billion-Scale Vectors**". arXiv:2510.  
+**[In Preprint.]** **Bing Tian**-, Jianhao Mu-, Haikun Liu, Lin Gu, Xiangrui Yang, Yuhang Tang, Zhuohui Duan, Xiaofei Liao, Hai Jin. "**AsymANN: Enabling Fast Update and Search for Graph-based Vector Index with Asymmetric Topology Consistency**". 
+(- Equal Contribution)
+
+**[In Preprint.]** Yuhang Tang-, **Bing Tian**-, Haikun Liu, Zhuohui Duan, Shuhao Zhang, Fubing Mao, Xiaofei Liao, Hai Jin. "**TierANNS: Fast and Cost-Efficient Approximate Nearest Neighbor Search for Billion-Scale Vectors**". 
 (- Equal Contribution)
 
 **[SIGMOD 2026]** Yang Xiao, Mo Sun, Ziyu Song, **Bing Tian**, Jie Zhang, Jie Sun, Zeke Wang. "**Breaking the Storage-Compute Bottleneck in Billion-Scale ANNS: A GPU-Driven Asynchronous I/O Framework**". ACM SIGMOD International Conference on Management of Data (SIGMOD), 2026
@@ -30,7 +33,7 @@ _(CCF A, Top-Tier Conference in Computer System)_
 
 Interns
 ------
-- _[2026.03 - Present] Ace Top Talent Internship of Xiaohongshu Inc, Researcher of Vector Search + LLM._
+- _[2026.03 - Present] Ace Top Talent Internship of Xiaohongshu Inc, Researcher of Diffusion LLM Inference._
 - _[2023.09 - 2024.09] 2012 Laboratory of Huawei Inc, Researcher of Vector Search._
 
 Invited Talks
