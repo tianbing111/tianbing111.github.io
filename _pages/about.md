@@ -13,6 +13,8 @@ I am now a fourth-year Ph.D. candidate at the School of Computer Science and Tec
 
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Publication Lists
 ------
+**[In Preprint.]** **Bing Tian**, Haikun Liu, Xiaocheng Zhong, Zhuohui Duan, Zhaokai Luo, Huayi Jin, Zhiyong Wang, Xiaofei Liao, Hai Jin. "**FlowBlock: Wavefront-Parallel Decoding for Self-Correcting Diffusion Language Models**". 
+
 **[In Preprint.]** **Bing Tian**-, Jianhao Mu-, Haikun Liu, Lin Gu, Xiangrui Yang, Yuhang Tang, Zhuohui Duan, Xiaofei Liao, Hai Jin. "**AsymANN: Enabling Fast Update and Search for Graph-based Vector Index with Asymmetric Topology Consistency**". 
 (- Equal Contribution)
 
@@ -33,7 +35,7 @@ _(CCF A, Top-Tier Conference in Computer System)_
 
 Interns
 ------
-- _[2026.03 - Present] Ace Top Talent Internship of Xiaohongshu Inc, Researcher of Diffusion LLM Inference._
+- _[2026.03 - Present] Ace Top Talent Internship of Xiaohongshu Inc, Researcher of Agent Memory._
 - _[2023.09 - 2024.09] 2012 Laboratory of Huawei Inc, Researcher of Vector Search._
 
 Invited Talks
