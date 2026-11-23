@@ -32,6 +32,12 @@ _† denotes equal contribution._
 **TierANNS: Fast and Cost-Efficient Approximate Nearest Neighbor Search for Billion-Scale Vectors**  
 Yuhang Tang†, **Bing Tian**†, Haikun Liu, Zhuohui Duan, Shuhao Zhang, Fubing Mao, Xiaofei Liao, Hai Jin
 
+![FRecSys 2026](https://img.shields.io/badge/FRecSys%202026-2F6FED?style=flat-square)  
+**[ServerlessANN: Low-Latency Serverless Vector Search with CXL Memory Pools](/files/ServerlessANN.pdf)**  
+**Bing Tian**, Yanlin Huang, Haikun Liu, Jianhao Mu, Zhuohui Duan, Xiaocheng Zhong, Yiping Sun, Xiao Chen  
+_The 1st Workshop on Frontier Recommender Systems (FRecSys), co-located with ACM SIGOPS ATC 2026_  
+[PDF](/files/ServerlessANN.pdf)
+
 ![SIGMOD 2026](https://img.shields.io/badge/SIGMOD%202026-7B5CF0?style=flat-square) ![CCF-A Database](https://img.shields.io/badge/CCF--A-Database-B45309?style=flat-square)  
 **Breaking the Storage-Compute Bottleneck in Billion-Scale ANNS: A GPU-Driven Asynchronous I/O Framework**  
 Yang Xiao, Mo Sun, Ziyu Song, **Bing Tian**, Jie Zhang, Jie Sun, Zeke Wang  
